@@ -9,7 +9,7 @@ Minha solução para o desafio [QR code component challenge on Frontend Mentor](
 
 ### Links
 
-- URL github pages: [Add live site URL here](https://your-live-site-url.com)
+- URL github pages: [Add live site URL here](https://ismaelsidney.github.io/QrCodeChallengeFrontEndMentor/)
 
 ### Construido com:
 
